@@ -1,0 +1,3 @@
+/tmp/tmp.Q62rz68lip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.Q62rz68lip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.Q62rz68lip/cmake-build-debug/CMakeFiles/server.dir
